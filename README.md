@@ -12,6 +12,7 @@ Once you press the generate button you will recieve prompts that will generate r
 
 ## Credits
 SuperSimpleDev Simon on youtube,
+https://www.w3schools.com/,
 & Katie Bolick 
 
 ## License
@@ -19,3 +20,9 @@ N/A
 
 ## Screenshot
 ![2023-06-12](https://github.com/abisinchan/studious-potato/assets/132783183/82b6e589-1ddd-4302-8cd5-071b95a6ae42)
+
+## Links
+To this Repo:
+[https://github.com/abisinchan/studious-potato.git].
+To url:
+[https://abisinchan.github.io/studious-potato/].
