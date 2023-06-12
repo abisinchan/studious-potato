@@ -1,9 +1,13 @@
+
+// dom
 const generateBtn = document.querySelector("#generate");
 let passwordText = document.querySelector("#password");
 
+// password generator
 function generatePassword() {
   const lengthOption = parseInt(prompt("How many characters would you like your password to contain?"));
 
+  // password generator conditions
   if (isNaN(lengthOption) || lengthOption < 8 || lengthOption > 128) {
     alert("Please enter a valid length between 8 and 128 characters.");
     return "";
@@ -18,7 +22,7 @@ function generatePassword() {
     alert("Please select at least one character type.");
     return "";
   }
-
+// create new array for random selection
   let selectedCharacters = [];
 
   if (includeNumbers) {
